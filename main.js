@@ -1,4 +1,4 @@
-function leapYearCheaker() {
+function leapYearCheaker(year) {
 
 }
 
